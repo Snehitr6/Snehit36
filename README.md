@@ -14,9 +14,7 @@ Clone or Download the Repository: Download the code files to your local machine.
 
 Run the Program: Open a terminal, navigate to the directory containing the code, and 
 
-
 Verify
-
 Open In Editor
 Edit
 Copy code
@@ -61,8 +59,8 @@ Evaluates the rules and prints the results.
 Example Output
 After running the program and entering the required data, the output will indicate whether the input data satisfies the conditions defined in each rule. For example:
 
-
 Verify
+
 Open In Editor
 Edit
 Copy code
@@ -71,6 +69,9 @@ Rule 2 Evaluation Result: False
 Combined Rule Evaluation Result: True
 Conclusion
 This program provides a flexible and efficient way to evaluate complex rules against user-defined data using an AST structure. It can be easily extended to include more fields, operators, or logical constructs as needed. The debug information helps in understanding the evaluation process and can be useful for troubleshooting or enhancing the rules.
+
+
+
 
 
 
